@@ -1,2 +1,2 @@
 # stats-helper
-this project is just a test
+This project is for testing my vector skills
